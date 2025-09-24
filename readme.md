@@ -69,9 +69,3 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriellealbonfim/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Leal%20Bonfim-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile Views" />
-</p>
