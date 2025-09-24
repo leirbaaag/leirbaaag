@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Administration-blue?style=for-the-badge&logo=wazuh" />
-  <img src="https://img.shields.io/badge/Automation-&-Scripting-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/SIEM-Administration-blue?&logo=splunk" />
+  <img src="https://img.shields.io/badge/Automation-Scripting-blue?&logo=python" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=500&lines=Hi!+I+am+leal;Welcome!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Opend+Sans&pause=500&center=true&vCenter=true&width=500&lines=Hi!+I+am+leal;Welcome!!" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,windows,azure,docker,vscode,kali" /><br/>
-  <img src="https://img.shields.io/badge/SIEM-Wazuh-blue?style=flat-square&logo=elastic" />
+  <img src="https://img.shields.io/badge/SIEM-Splunk-blue?style=flat-square&logo=splunk" />
   <img src="https://img.shields.io/badge/Network-Traffic%20Analysis-green?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Log-Analysis-orange?style=flat-square&logo=proxmox" />
 </p>
@@ -50,16 +50,17 @@
 ## Professional Experience
 
 ## Intern - SIURB (2024 - Present)
-- ✅ User support
-- ✅ SIEM platform implementation – Wazuh
-- ✅ Development of internal automations
-- ✅ Environment monitoring
-- ✅ Asset management
+-  User support
+-  SIEM platform implementation – Wazuh
+-  Development of internal automations
+-  Environment monitoring
+-  Asset management
 
 ## Junior Trainee - Atento Brasil (2024)
-- ✅ Maintenance of networks and workstations
-- ✅ Remote and on-site technical support
-- ✅ VLAN and switch configuration
+-  Maintenance of networks and workstations
+-  Remote and on-site technical support
+-  VLAN and switch configuration
+-  Computer hardening
 
 ---
 
