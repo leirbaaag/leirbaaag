@@ -1,18 +1,18 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Administration-blue?&logo=proxmox" />
-  <img src="https://img.shields.io/badge/Automation-Scripting-blue?&logo=python" />
+  <img src="https://img.shields.io/badge/SIEM-Administration-orange?&logo=proxmox" />
+  <img src="https://img.shields.io/badge/Automation-Scripting-orange?&logo=python" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&pause=500&center=true&vCenter=true&width=500&lines=Hi!+I+am+leal;Welcome!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78E09&width=435&lines=Hi!+I+am+leal;Welcome!!!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc1anBqcTM3NjFtZWtub3Y1OWw0YzE5OWZ1MGx5eWQyeWoyYXEwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nce9JyYqp9HOJwmTv/giphy.gif width="150" align="right"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc1anBqcTM3NjFtZWtub3Y1OWw0YzE5OWZ1MGx5eWQyeWoyYXEwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nce9JyYqp9HOJwmTv/giphy.gif" width="150" align="right"/>
 </p>
 
   I am a professional in **Cybersecurity** at the beginning of my carrer, with pratical experience in:
