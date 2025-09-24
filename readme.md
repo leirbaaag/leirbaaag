@@ -50,16 +50,17 @@
 ## Professional Experience
 
 ## Intern - SIURB (2024 - Present)
--✅ User support
--✅ SIEM platform implementation – Wazuh
--✅ Development of internal automations
--✅ Environment monitoring
--✅ Asset management
+- ✅ User support
+- ✅ SIEM platform implementation – Wazuh
+- ✅ Development of internal automations
+- ✅ Environment monitoring
+- ✅ Asset management
 
 ## Junior Trainee - Atento Brasil (2024)
--✅ Maintenance of networks and workstations
--✅ Remote and on-site technical support
--✅ VLAN and switch configuration
+- ✅ Maintenance of networks and workstations
+- ✅ Remote and on-site technical support
+- ✅ VLAN and switch configuration
+
 ---
 
 ## Social media
