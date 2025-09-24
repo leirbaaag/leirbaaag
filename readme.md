@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/SIEM-Administration-blue?style=for-the-badge&logo=wazuh" />
   <img src="https://img.shields.io/badge/Automation-&-Scripting-green?style=for-the-badge&logo=python" />
 </p>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&center=true&vCenter=true&width=500&lines=Hi!+I+am+leal;Welcome!!" alt="Typing SVG" />
@@ -16,12 +15,12 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc1anBqcTM3NjFtZWtub3Y1OWw0YzE5OWZ1MGx5eWQyeWoyYXEwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nce9JyYqp9HOJwmTv/giphy.gif width="150" align="right"/>
 </p>
 
-Sou um profissional em **Cibersegurança** em início de carreira, com experiência prática em:
--  **Suporte técnico** e troubleshooting de hardware e software
--  **Resposta a incidentes** e análise de logs (SIEM)
--  **Administração de ambientes Cloud** (Azure)
--  **Virtualização** (Proxmox, VMs, Containers)
--  **Automação e Scripting** com Python
+  I am a professional in **Cybersecurity** at the beginning of my carrer, with pratical experience in:
+  -  **Techincal support** and troubleshooting of hardware and software
+  -  **Incidente Response** and log analysis (SIEM)
+  -  **Cloud environment administration** (Azure)
+  -  **Virtualization** (Proxmox, VMs, Containers)
+  -  **Automation and Scripting** with Python
 
 ---
 
@@ -51,16 +50,16 @@ Sou um profissional em **Cibersegurança** em início de carreira, com experiên
 ## Professional Experience
 
 ## Intern - SIURB (2024 - Present)
-✅ User support
-✅ SIEM platform implementation – Wazuh
-✅ Development of internal automations
-✅ Environment monitoring
-✅ Asset management
+-✅ User support
+-✅ SIEM platform implementation – Wazuh
+-✅ Development of internal automations
+-✅ Environment monitoring
+-✅ Asset management
 
 ## Junior Trainee - Atento Brasil (2024)
-✅ Maintenance of networks and workstations
-✅ Remote and on-site technical support
-✅ VLAN and switch configuration
+-✅ Maintenance of networks and workstations
+-✅ Remote and on-site technical support
+-✅ VLAN and switch configuration
 ---
 
 ## Social media
