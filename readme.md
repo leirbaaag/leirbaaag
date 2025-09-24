@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Administration-orange?&logo=proxmox" />
-  <img src="https://img.shields.io/badge/Automation-Scripting-orange?&logo=python" />
+  <img src="https://img.shields.io/badge/SIEM-Administration-blue?&logo=proxmox" />
+  <img src="https://img.shields.io/badge/Automation-Scripting-blue?&logo=python" />
 </p>
 
 <p align="center">
@@ -28,20 +28,20 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,windows,azure,docker,vscode,kali" /><br/>
-  <img src="https://img.shields.io/badge/SIEM-Splunk-orange?style=flat-square&logo=splunk" />
-  <img src="https://img.shields.io/badge/Network-Traffic%20Analysis-orange?style=flat-square&logo=cisco" />
-  <img src="https://img.shields.io/badge/Log-Analysis-orange?style=flat-square&logo=proxmox" />
+  <img src="https://img.shields.io/badge/SIEM-Splunk-blue?style=flat-square&logo=splunk" />
+  <img src="https://img.shields.io/badge/Network-Traffic%20Analysis-blue?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/Log-Analysis-blue?style=flat-square&logo=proxmox" />
 </p>
 
 ---
 
 ## Certifications
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Network%20Defense-orange?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Alura-Network%20Security%20Firewall%2C%20WAF%20e%20SIEM-orange?style=for-the-badge&logo=shield" />
-  <img src="https://img.shields.io/badge/Fiap-Blockchain%20Advanced-orange?style=for-the-badge&logo=bitcoin" />
-  <img src="https://img.shields.io/badge/Fiap-Cloud%20Fundamentals%2C%20Administration%20%26%20Solution%20Architect-orange?style=for-the-badge&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/orangeHat-System%20Administration%20RH124-orange?style=for-the-badge&logo=redhat" />
+  <img src="https://img.shields.io/badge/Cisco-Network%20Defense-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Alura-Network%20Security%20Firewall%2C%20WAF%20e%20SIEM-blue?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/Fiap-Blockchain%20Advanced-blue?style=for-the-badge&logo=bitcoin" />
+  <img src="https://img.shields.io/badge/Fiap-Cloud%20Fundamentals%2C%20Administration%20%26%20Solution%20Architect-blue?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/blueHat-System%20Administration%20RH124-blue?style=for-the-badge&logo=redhat" />
 </p>
 
 
@@ -73,5 +73,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=orange" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile Views" />
 </p>
