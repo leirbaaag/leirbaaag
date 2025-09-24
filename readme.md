@@ -12,7 +12,7 @@
 
 ## About Me
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWc1anBqcTM3NjFtZWtub3Y1OWw0YzE5OWZ1MGx5eWQyeWoyYXEwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nce9JyYqp9HOJwmTv/giphy.gif" width="150" align="right"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm90dHh3Z2JlZTRzOXBmdG1lMDhkNmYxb3ltNHNjbXZ3YzhpaTM0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/37IzUsLdfChayL5uyA/giphy.gif" width="150" align="right"/>
 </p>
 
   I am a professional in **Cybersecurity** at the beginning of my carrer, with pratical experience in:
