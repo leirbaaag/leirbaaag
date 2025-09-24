@@ -64,7 +64,7 @@
 
 ---
 
-## Social media <img="https://skillicons.dev/icons?i=linkedin"/>
+## Social media <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriellealbonfim/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Leal%20Bonfim-blue?style=for-the-badge&logo=linkedin" /></a>
