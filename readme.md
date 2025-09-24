@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SIEM-Administration-blue?&logo=splunk" />
+  <img src="https://img.shields.io/badge/SIEM-Administration-blue?&logo=proxmox" />
   <img src="https://img.shields.io/badge/Automation-Scripting-blue?&logo=python" />
 </p>
 
