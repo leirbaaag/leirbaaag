@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78E09&width=435&lines=Hi!+I+am+leal;Welcome!!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78E09&center=true&vCenter=true&width=435&lines=Hi!+I+am+leal;Welcome!!!" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,8 +28,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,windows,azure,docker,vscode,kali" /><br/>
-  <img src="https://img.shields.io/badge/SIEM-Splunk-blue?style=flat-square&logo=splunk" />
-  <img src="https://img.shields.io/badge/Network-Traffic%20Analysis-green?style=flat-square&logo=cisco" />
+  <img src="https://img.shields.io/badge/SIEM-Splunk-orange?style=flat-square&logo=splunk" />
+  <img src="https://img.shields.io/badge/Network-Traffic%20Analysis-orange?style=flat-square&logo=cisco" />
   <img src="https://img.shields.io/badge/Log-Analysis-orange?style=flat-square&logo=proxmox" />
 </p>
 
@@ -37,11 +37,11 @@
 
 ## Certifications
 <p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Network%20Defense-blue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Alura-Network%20Security%20Firewall%2C%20WAF%20e%20SIEM-green?style=for-the-badge&logo=shield" />
-  <img src="https://img.shields.io/badge/Fiap-Blockchain%20Advanced-black?style=for-the-badge&logo=bitcoin" />
+  <img src="https://img.shields.io/badge/Cisco-Network%20Defense-orange?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Alura-Network%20Security%20Firewall%2C%20WAF%20e%20SIEM-orange?style=for-the-badge&logo=shield" />
+  <img src="https://img.shields.io/badge/Fiap-Blockchain%20Advanced-orange?style=for-the-badge&logo=bitcoin" />
   <img src="https://img.shields.io/badge/Fiap-Cloud%20Fundamentals%2C%20Administration%20%26%20Solution%20Architect-orange?style=for-the-badge&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/RedHat-System%20Administration%20RH124-red?style=for-the-badge&logo=redhat" />
+  <img src="https://img.shields.io/badge/orangeHat-System%20Administration%20RH124-red?style=for-the-badge&logo=redhat" />
 </p>
 
 
@@ -68,11 +68,11 @@
 
 <p align="center">
   <a href="mailto:gabriellealbonfim@gmail.com"><img src="https://img.shields.io/badge/Email-gabriellealbonfim%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/gabriellealbonfim/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Leal%20Bonfim-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gabriellealbonfim/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Leal%20Bonfim-orange?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=orange" alt="Profile Views" />
 </p>
