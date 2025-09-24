@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Olá!+Eu+sou+Gabriel+Leal+Bonfim;Cybersecurity+%7C+Incident+Response+%7C+DevSecOps;Apaixonado+por+tecnologia+e+segurança" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Hi!+I+am+leal;Welcome!!" alt="Typing SVG" />
 </p>
 
 ---
