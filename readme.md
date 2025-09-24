@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Alura-Network%20Security%20Firewall%2C%20WAF%20e%20SIEM-orange?style=for-the-badge&logo=shield" />
   <img src="https://img.shields.io/badge/Fiap-Blockchain%20Advanced-orange?style=for-the-badge&logo=bitcoin" />
   <img src="https://img.shields.io/badge/Fiap-Cloud%20Fundamentals%2C%20Administration%20%26%20Solution%20Architect-orange?style=for-the-badge&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/orangeHat-System%20Administration%20RH124-red?style=for-the-badge&logo=redhat" />
+  <img src="https://img.shields.io/badge/orangeHat-System%20Administration%20RH124-orange?style=for-the-badge&logo=redhat" />
 </p>
 
 
@@ -64,11 +64,10 @@
 
 ---
 
-## Social media
+## Social media <img="https://skillicons.dev/icons?i=linkedin"/>
 
 <p align="center">
-  <a href="mailto:gabriellealbonfim@gmail.com"><img src="https://img.shields.io/badge/Email-gabriellealbonfim%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/gabriellealbonfim/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Leal%20Bonfim-orange?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/gabriellealbonfim/"><img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Leal%20Bonfim-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
