@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Alura-Network%20Security%20Firewall%2C%20WAF%20e%20SIEM-blue?style=for-the-badge&logo=shield" />
   <img src="https://img.shields.io/badge/Fiap-Blockchain%20Advanced-blue?style=for-the-badge&logo=bitcoin" />
   <img src="https://img.shields.io/badge/Fiap-Cloud%20Fundamentals%2C%20Administration%20%26%20Solution%20Architect-blue?style=for-the-badge&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/blueHat-System%20Administration%20RH124-blue?style=for-the-badge&logo=redhat" />
+  <img src="https://img.shields.io/badge/RedHat-System%20Administration%20RH124-blue?style=for-the-badge&logo=redhat" />
 </p>
 
 
